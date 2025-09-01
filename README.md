@@ -4,7 +4,7 @@ Welcome to **Pygame Adventures**, a collection of fun and engaging 2D games buil
 
 ## Games Included
 
-### 1. Super Mario Style Platformer
+### Super Mario Style Platformer
 A thrilling 2D platformer where you navigate a 10,000px-wide world, collect coins, shoot enemies, and avoid obstacles to reach the finish line.
 
 - **Features**: 
@@ -17,7 +17,7 @@ A thrilling 2D platformer where you navigate a 10,000px-wide world, collect coin
 - **Objective**: Reach the end of the world while collecting coins and surviving enemies.
 - **Directory**: `platformer/`
 
-### 2. In-Car Racer
+### In-Car Racer
 A pseudo-3D racing game where you drive through a winding two-lane road, dodge traffic, and avoid roadside obstacles to complete a 5,000-meter course.
 
 - **Features**:
@@ -30,7 +30,7 @@ A pseudo-3D racing game where you drive through a winding two-lane road, dodge t
 - **Objective**: Reach the 5,000-meter finish line without crashing.
 - **Directory**: `Driving Game/`
 
-### 3. Seb's Snake Game
+### Seb's Snake Game
 A classic snake game where you guide a snake to eat apples, grow longer, and achieve a high score while avoiding collisions with yourself or the screen edges.
 
 - **Features**:
@@ -42,7 +42,7 @@ A classic snake game where you guide a snake to eat apples, grow longer, and ach
 - **Objective**: Eat as many apples as possible without crashing into the edges or yourself.
 - **Directory**: `snake/`
 
-### 4. My Trivia Game
+### My Trivia Game
 A knowledge-testing trivia game with over 80 multiple-choice questions across various topics, aiming to maximize your score and climb trivia ranks.
 
 - **Features**:
